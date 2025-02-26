@@ -2,7 +2,7 @@
 
 Here is sleep mode demonstration with stm32l412c8u6.
 
-Button used to trigger wake up from sleep and device blink led for 5 seconds and sleep again.
+Button used to trigger wake up from sleep mode and device blink led for 5 seconds and sleep again.
 
 ## Setup:
 
