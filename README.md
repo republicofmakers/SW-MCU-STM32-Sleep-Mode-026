@@ -1,6 +1,8 @@
 # SW-MCU-STM32-Sleep-Mode-026
 
-Here is sleep mode demonstration with stm32.Button used to trigger wake up from sleep and device blink led for 5 seconds and sleep again for each press.
+Here is sleep mode demonstration with stm32l412c8u6.
+
+Button used to trigger wake up from sleep and device blink led for 5 seconds and sleep again.
 
 ## Setup:
 
@@ -13,7 +15,6 @@ Here is sleep mode demonstration with stm32.Button used to trigger wake up from 
 (Normal Mode Power Consumption)
 
 <img width="477" alt="sleep" src="https://github.com/user-attachments/assets/e397ba79-718f-4110-acb4-78a777bd7416" />
-
 
 (Sleep Mode Power Consumption)
 
